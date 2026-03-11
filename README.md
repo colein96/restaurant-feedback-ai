@@ -16,3 +16,6 @@ Future improvements:
 - automated sentiment analysis
 - visualization of feedback trends
 - dashboard for restaurant managers
+
+
+Now includes automatic sentiment analysis using TextBlob to classify reviews as positive, negative, or neutral.
