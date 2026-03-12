@@ -19,3 +19,9 @@ Future improvements:
 
 
 Now includes automatic sentiment analysis using TextBlob to classify reviews as positive, negative, or neutral.
+
+## Feedback Visualization
+
+Here is a visual overview of customer feedback trends:
+
+![Customer Feedback Chart](restaurant_feedback_analysis.png)
