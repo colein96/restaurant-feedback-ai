@@ -28,7 +28,7 @@ The tool analyzes customer feedback and identifies key patterns that can help re
 
 You can explore the full code here:
 
-restaurant_feedback_ai_project.ipynb
+[Restaurant Feedback AI Notebook](restaurant_feedback_ai_project.ipynb)
 
 ## Future Improvements
 
