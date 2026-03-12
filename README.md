@@ -36,4 +36,7 @@ restaurant_feedback_ai_project.ipynb
 - Add automated report generation
 - Build a simple dashboard for restaurant managers## Feedback Visualization
 
-- This project combines hospitality industry experience with artificial intelligence to explore how AI can support real business operations.
+
+
+
+This project combines hospitality industry experience with artificial intelligence to explore how AI can support real business operations.
