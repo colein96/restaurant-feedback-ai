@@ -1,27 +1,39 @@
-# restaurant-feedback-ai
-AI tool that analyzes restaurant reviews and extracts key feedback insights.
 # Restaurant Feedback AI Assistant
 
-This project explores how artificial intelligence can analyze customer reviews to identify trends and improve restaurant service.
+This project explores how Artificial Intelligence can help analyze restaurant customer reviews and extract useful insights.
 
-The tool analyzes restaurant reviews and extracts:
+## Project Overview
 
-• positive feedback  
-• negative feedback  
-• improvement suggestions  
+The tool analyzes customer feedback and identifies key patterns that can help restaurant managers improve service quality and customer experience.
 
-The project combines AI learning with real-world hospitality experience.
+## Features
 
-Future improvements:
-- automated sentiment analysis
-- visualization of feedback trends
-- dashboard for restaurant managers
+- Customer review sentiment analysis
+- Feedback categorization (service, food, environment)
+- Automatic improvement suggestions
+- Visual feedback analysis using charts
 
+## Technologies Used
 
-Now includes automatic sentiment analysis using TextBlob to classify reviews as positive, negative, or neutral.
+- Python
+- Google Colab
+- TextBlob
+- Matplotlib
 
-## Feedback Visualization
-
-Here is a visual overview of customer feedback trends:
+## Example Output
 
 ![Customer Feedback Chart](restaurant_feedback_analysis.png)
+
+## Project Notebook
+
+You can explore the full code here:
+
+restaurant_feedback_ai_project.ipynb
+
+## Future Improvements
+
+- Connect to real review datasets
+- Add automated report generation
+- Build a simple dashboard for restaurant managers## Feedback Visualization
+
+- This project combines hospitality industry experience with artificial intelligence to explore how AI can support real business operations.
