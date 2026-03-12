@@ -40,3 +40,6 @@ You can explore the full code here:
 
 
 This project combines hospitality industry experience with artificial intelligence to explore how AI can support real business operations.
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/colein96/restaurant-feedback-ai/blob/main/restaurant_feedback_ai_project.ipynb)
